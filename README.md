@@ -4,7 +4,7 @@ A sample Clojure command line application demonstrating how to run a function du
 
 ## Usage
 
-- java -jar target/exit-handler-1.0.0-standalone.jar
+- java -jar target/exit-handler-1.0.1-standalone.jar
 
 ## License
 
