@@ -1,6 +1,6 @@
 # exit-handler
 
-A sample Clojure command application demonstrating how to run a function during program termination.
+A sample Clojure command line application demonstrating how to run a function during program termination.
 
 ## Usage
 
