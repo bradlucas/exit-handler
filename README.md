@@ -1,14 +1,14 @@
 # exit-handler
 
-exit-handler, a Clojure cmdline application
+A sample Clojure command application demonstrating how to run a function during program termination.
 
 ## Usage
 
-FIXME
+- java -jar target/exit-handler-1.0.0-standalone.jar
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Brad Lucas
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
