@@ -1,4 +1,4 @@
-(defproject com.bradlucas/exit-handler "1.0.0"
+(defproject com.bradlucas/exit-handler "1.0.1"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "MIT"
