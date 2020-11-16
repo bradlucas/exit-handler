@@ -1,5 +1,7 @@
 # exit-handler
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.bradlucas/exit-handler.svg)](https://clojars.org/com.bradlucas/exit-handler)
+
 A sample Clojure command line application demonstrating how to run a function during program termination.
 
 ## Usage
